@@ -1,0 +1,8 @@
+{
+"model": "llama3.2",
+"messages": [
+{"role": "system", "content": "You are a Juniper engineer."},
+{"role": "user", "content": "Static route to 10.200.0.0/16 via 172.20.1.1"}
+],
+"stream": false
+}
